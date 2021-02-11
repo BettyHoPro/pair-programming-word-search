@@ -1,3 +1,4 @@
+// pair programming with Liam Butler
 const wordSearch = (letters, word) => {
   if (letters.length === 0) {
     return false;
